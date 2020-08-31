@@ -1,6 +1,6 @@
 <h2><center>GadhaGod Electronics</center></h2>
 
-Welcome to GadhaGod Electronics! We make all sorts of software and hardware!
+Welcome to GadhaGod Electronics! We make all sorts of software and hardware.
 
 <h3>Links and Other Platforms</h3>
 <a href="http://gadhagod.repl.co/">Website</a><br>
