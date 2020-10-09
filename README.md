@@ -11,4 +11,4 @@ Favorite programming languages:
 - python
 - bash
 - javascript/node.js
-- HTML/CSS
+- c++
