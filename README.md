@@ -1,4 +1,4 @@
-Check out my <a href="http://gadhagod.repl.co/">website</a>.<br><center>
+Check out my <a href="http://gadhagod.github.io/">website</a>.<br><center>
 
 Favorite programming languages:
 
