@@ -1,6 +1,6 @@
 # Aarav Borthakur
 
-**Learning hobbyist making cool stuff!**
+**8th grade learning hobbyist making cool stuff!**
 
 ![](https://i.imgur.com/4M7IWwP.gif)
 
