@@ -10,3 +10,7 @@
 [Arduino Project Hub](https://create.arduino.cc/projecthub/GadhaGod)
 
 ![](https://i.imgur.com/4M7IWwP.gif)
+
+GitHub stats:
+
+![](https://github-readme-stats.vercel.app/api?username=gadhagod&count_private=true&show_icons=true&theme=gradient)
