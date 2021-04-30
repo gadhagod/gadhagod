@@ -1,7 +1,5 @@
 # Aarav Borthakur
 
-**8th grade learning hobbyist making cool stuff!**
-
 ![](https://i.imgur.com/4M7IWwP.gif)
 
 [Projects](http://gadhagod.github.io) \
