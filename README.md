@@ -1,5 +1,4 @@
 # Aarav Borthakur
 
-Hello, Aarav Borthakur here. 14-yr-old learning software developer.
-
-![](https://github-readme-stats.vercel.app/api?username=gadhagod&count_private=true&show_icons=true&theme=gradient)
+Hello, Aarav Borthakur here. highschool freshman and learning software developer. \
+Check out my website here: [gadhagod.github.io](https://gadhagod.github.io).
