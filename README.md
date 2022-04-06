@@ -1,4 +1,6 @@
 # Aarav Borthakur
 
-Hello, Aarav Borthakur here. highschool freshman and learning software developer. \
-Check out my website here: [gadhagod.github.io](https://gadhagod.github.io).
+Hello, Aarav Borthakur here. Highschool freshman and learning software developer. \
+Links:
+* [Website](https://gadhagod.github.io/)
+* [Linkedin](https://www.linkedin.com/in/aarav-borthakur-b66085209)
