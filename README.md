@@ -1,3 +1,3 @@
 # Aarav Borthakur
 
-Hello, Aarav Borthakur here. High schooler and learning software developer. 
+Hello, Aarav Borthakur here. Undergraduate student and software developer. 
